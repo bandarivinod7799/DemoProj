@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Spring Boot");
 		System.out.println("Feature Branch");
+		System.out.println("New Commit Adding");
 	}
 
 }
